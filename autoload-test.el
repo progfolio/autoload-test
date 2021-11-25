@@ -1,4 +1,4 @@
-;;; autoload-test.el --- Repro for a bug with autoloads  -*- lexical-binding: t; -*-
+;;; autoload-test.el --- Repro for a bug with autoloads  -*- lexical-binding: t; coding: utf-8 -*-
 
 ;; Author: Nicholas Vollmer <progfolio@protonmail.com>
 ;; URL: https://github.com/progfolio/autoload-test
