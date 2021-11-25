@@ -1,4 +1,4 @@
-;;; autoload-test.el --- Repro for a bug with autoloads  -*- lexical-binding: t; -*-
+;;; autoload-test.el --- Repro for a bug with autoloads  -*- lexical-binding: t; coding: utf-8 -*-
 
 ;; Copyright (C) 2021
 
