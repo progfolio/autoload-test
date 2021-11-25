@@ -15,9 +15,13 @@
 ;;; Code:
 
 ;;;###autoload
-(defun autoload-test ()
-;;  "Тест кирилица"
-  "Test."
+(defun autoload-test-english ()
+  "English Test."
+  nil)
+
+;;;###autoload
+(defun autoload-test-cyrillic  ()
+  "Тест кирилица"
   nil)
 
 (provide 'autoload-test)
